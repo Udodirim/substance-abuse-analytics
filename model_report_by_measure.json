@@ -1,0 +1,42 @@
+[
+  {
+    "measure": "deaths_direct_drug",
+    "sarimax_order": [
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "measure": "deaths_direct_alcohol",
+    "sarimax_order": [
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "measure": "deaths_risk_tobacco",
+    "sarimax_order": [
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "measure": "deaths_risk_drug",
+    "sarimax_order": [
+      2,
+      1,
+      2
+    ]
+  },
+  {
+    "measure": "deaths_risk_alcohol",
+    "sarimax_order": [
+      2,
+      1,
+      2
+    ]
+  }
+]

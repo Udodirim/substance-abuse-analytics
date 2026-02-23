@@ -1,0 +1,49 @@
+{
+  "primary_measure": "deaths_direct_total",
+  "test_years": 3,
+  "candidates": [
+    {
+      "model": "SARIMAX",
+      "params": {
+        "order": [
+          0,
+          1,
+          2
+        ],
+        "AIC": 438.26
+      },
+      "metrics": {
+        "MAE": 7355.97256306685,
+        "RMSE": 9416.142051369095,
+        "MAPE": 2.4976584459079176
+      }
+    },
+    {
+      "model": "Prophet",
+      "params": {
+        "changepoint_prior": 0.3
+      },
+      "metrics": {
+        "MAE": 12742.99836517591,
+        "RMSE": 13165.229957648771,
+        "MAPE": 4.3771676568179565
+      }
+    }
+  ],
+  "winner": {
+    "model": "SARIMAX",
+    "params": {
+      "order": [
+        0,
+        1,
+        2
+      ],
+      "AIC": 438.26
+    },
+    "metrics": {
+      "MAE": 7355.97256306685,
+      "RMSE": 9416.142051369095,
+      "MAPE": 2.4976584459079176
+    }
+  }
+}

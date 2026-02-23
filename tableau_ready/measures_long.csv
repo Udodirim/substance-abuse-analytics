@@ -1,0 +1,181 @@
+date,year,measure,value,measure_label
+1990-01-01,1990,deaths_direct_drug,56263,Direct: Drug
+1991-01-01,1991,deaths_direct_drug,62030,Direct: Drug
+1992-01-01,1992,deaths_direct_drug,66980,Direct: Drug
+1993-01-01,1993,deaths_direct_drug,71776,Direct: Drug
+1994-01-01,1994,deaths_direct_drug,76918,Direct: Drug
+1995-01-01,1995,deaths_direct_drug,80211,Direct: Drug
+1996-01-01,1996,deaths_direct_drug,81960,Direct: Drug
+1997-01-01,1997,deaths_direct_drug,82851,Direct: Drug
+1998-01-01,1998,deaths_direct_drug,85397,Direct: Drug
+1999-01-01,1999,deaths_direct_drug,87686,Direct: Drug
+2000-01-01,2000,deaths_direct_drug,90061,Direct: Drug
+2001-01-01,2001,deaths_direct_drug,87722,Direct: Drug
+2002-01-01,2002,deaths_direct_drug,85162,Direct: Drug
+2003-01-01,2003,deaths_direct_drug,82661,Direct: Drug
+2004-01-01,2004,deaths_direct_drug,82259,Direct: Drug
+2005-01-01,2005,deaths_direct_drug,85425,Direct: Drug
+2006-01-01,2006,deaths_direct_drug,85907,Direct: Drug
+2007-01-01,2007,deaths_direct_drug,86490,Direct: Drug
+2008-01-01,2008,deaths_direct_drug,87636,Direct: Drug
+2009-01-01,2009,deaths_direct_drug,87592,Direct: Drug
+2010-01-01,2010,deaths_direct_drug,88653,Direct: Drug
+2011-01-01,2011,deaths_direct_drug,89904,Direct: Drug
+2012-01-01,2012,deaths_direct_drug,91522,Direct: Drug
+2013-01-01,2013,deaths_direct_drug,95159,Direct: Drug
+2014-01-01,2014,deaths_direct_drug,99907,Direct: Drug
+2015-01-01,2015,deaths_direct_drug,106066,Direct: Drug
+2016-01-01,2016,deaths_direct_drug,113597,Direct: Drug
+2017-01-01,2017,deaths_direct_drug,119057,Direct: Drug
+2018-01-01,2018,deaths_direct_drug,123833,Direct: Drug
+2019-01-01,2019,deaths_direct_drug,128788,Direct: Drug
+1990-01-01,1990,deaths_direct_alcohol,116507,Direct: Alcohol
+1991-01-01,1991,deaths_direct_alcohol,122601,Direct: Alcohol
+1992-01-01,1992,deaths_direct_alcohol,131791,Direct: Alcohol
+1993-01-01,1993,deaths_direct_alcohol,144036,Direct: Alcohol
+1994-01-01,1994,deaths_direct_alcohol,154010,Direct: Alcohol
+1995-01-01,1995,deaths_direct_alcohol,156877,Direct: Alcohol
+1996-01-01,1996,deaths_direct_alcohol,156537,Direct: Alcohol
+1997-01-01,1997,deaths_direct_alcohol,155636,Direct: Alcohol
+1998-01-01,1998,deaths_direct_alcohol,156518,Direct: Alcohol
+1999-01-01,1999,deaths_direct_alcohol,160872,Direct: Alcohol
+2000-01-01,2000,deaths_direct_alcohol,166398,Direct: Alcohol
+2001-01-01,2001,deaths_direct_alcohol,171139,Direct: Alcohol
+2002-01-01,2002,deaths_direct_alcohol,175701,Direct: Alcohol
+2003-01-01,2003,deaths_direct_alcohol,179300,Direct: Alcohol
+2004-01-01,2004,deaths_direct_alcohol,180925,Direct: Alcohol
+2005-01-01,2005,deaths_direct_alcohol,182155,Direct: Alcohol
+2006-01-01,2006,deaths_direct_alcohol,178208,Direct: Alcohol
+2007-01-01,2007,deaths_direct_alcohol,174469,Direct: Alcohol
+2008-01-01,2008,deaths_direct_alcohol,172084,Direct: Alcohol
+2009-01-01,2009,deaths_direct_alcohol,167203,Direct: Alcohol
+2010-01-01,2010,deaths_direct_alcohol,164774,Direct: Alcohol
+2011-01-01,2011,deaths_direct_alcohol,161825,Direct: Alcohol
+2012-01-01,2012,deaths_direct_alcohol,159824,Direct: Alcohol
+2013-01-01,2013,deaths_direct_alcohol,159284,Direct: Alcohol
+2014-01-01,2014,deaths_direct_alcohol,159725,Direct: Alcohol
+2015-01-01,2015,deaths_direct_alcohol,161142,Direct: Alcohol
+2016-01-01,2016,deaths_direct_alcohol,162475,Direct: Alcohol
+2017-01-01,2017,deaths_direct_alcohol,163026,Direct: Alcohol
+2018-01-01,2018,deaths_direct_alcohol,165888,Direct: Alcohol
+2019-01-01,2019,deaths_direct_alcohol,168357,Direct: Alcohol
+1990-01-01,1990,deaths_risk_tobacco,6805521,Risk: Tobacco
+1991-01-01,1991,deaths_risk_tobacco,6905741,Risk: Tobacco
+1992-01-01,1992,deaths_risk_tobacco,7028446,Risk: Tobacco
+1993-01-01,1993,deaths_risk_tobacco,7198526,Risk: Tobacco
+1994-01-01,1994,deaths_risk_tobacco,7300766,Risk: Tobacco
+1995-01-01,1995,deaths_risk_tobacco,7353323,Risk: Tobacco
+1996-01-01,1996,deaths_risk_tobacco,7376423,Risk: Tobacco
+1997-01-01,1997,deaths_risk_tobacco,7414804,Risk: Tobacco
+1998-01-01,1998,deaths_risk_tobacco,7446271,Risk: Tobacco
+1999-01-01,1999,deaths_risk_tobacco,7522023,Risk: Tobacco
+2000-01-01,2000,deaths_risk_tobacco,7610726,Risk: Tobacco
+2001-01-01,2001,deaths_risk_tobacco,7665143,Risk: Tobacco
+2002-01-01,2002,deaths_risk_tobacco,7753890,Risk: Tobacco
+2003-01-01,2003,deaths_risk_tobacco,7806634,Risk: Tobacco
+2004-01-01,2004,deaths_risk_tobacco,7794140,Risk: Tobacco
+2005-01-01,2005,deaths_risk_tobacco,7852603,Risk: Tobacco
+2006-01-01,2006,deaths_risk_tobacco,7775078,Risk: Tobacco
+2007-01-01,2007,deaths_risk_tobacco,7778110,Risk: Tobacco
+2008-01-01,2008,deaths_risk_tobacco,7861840,Risk: Tobacco
+2009-01-01,2009,deaths_risk_tobacco,7872356,Risk: Tobacco
+2010-01-01,2010,deaths_risk_tobacco,7934869,Risk: Tobacco
+2011-01-01,2011,deaths_risk_tobacco,7971217,Risk: Tobacco
+2012-01-01,2012,deaths_risk_tobacco,8018370,Risk: Tobacco
+2013-01-01,2013,deaths_risk_tobacco,8069401,Risk: Tobacco
+2014-01-01,2014,deaths_risk_tobacco,8122072,Risk: Tobacco
+2015-01-01,2015,deaths_risk_tobacco,8231363,Risk: Tobacco
+2016-01-01,2016,deaths_risk_tobacco,8328641,Risk: Tobacco
+2017-01-01,2017,deaths_risk_tobacco,8412260,Risk: Tobacco
+2018-01-01,2018,deaths_risk_tobacco,8561201,Risk: Tobacco
+2019-01-01,2019,deaths_risk_tobacco,8729335,Risk: Tobacco
+1990-01-01,1990,deaths_risk_drug,354999,Risk: Drug
+1991-01-01,1991,deaths_risk_drug,378933,Risk: Drug
+1992-01-01,1992,deaths_risk_drug,404156,Risk: Drug
+1993-01-01,1993,deaths_risk_drug,434972,Risk: Drug
+1994-01-01,1994,deaths_risk_drug,467525,Risk: Drug
+1995-01-01,1995,deaths_risk_drug,494800,Risk: Drug
+1996-01-01,1996,deaths_risk_drug,516073,Risk: Drug
+1997-01-01,1997,deaths_risk_drug,535950,Risk: Drug
+1998-01-01,1998,deaths_risk_drug,559938,Risk: Drug
+1999-01-01,1999,deaths_risk_drug,589692,Risk: Drug
+2000-01-01,2000,deaths_risk_drug,617378,Risk: Drug
+2001-01-01,2001,deaths_risk_drug,637408,Risk: Drug
+2002-01-01,2002,deaths_risk_drug,656117,Risk: Drug
+2003-01-01,2003,deaths_risk_drug,670862,Risk: Drug
+2004-01-01,2004,deaths_risk_drug,683063,Risk: Drug
+2005-01-01,2005,deaths_risk_drug,705104,Risk: Drug
+2006-01-01,2006,deaths_risk_drug,711083,Risk: Drug
+2007-01-01,2007,deaths_risk_drug,716849,Risk: Drug
+2008-01-01,2008,deaths_risk_drug,724960,Risk: Drug
+2009-01-01,2009,deaths_risk_drug,720187,Risk: Drug
+2010-01-01,2010,deaths_risk_drug,723333,Risk: Drug
+2011-01-01,2011,deaths_risk_drug,729116,Risk: Drug
+2012-01-01,2012,deaths_risk_drug,728621,Risk: Drug
+2013-01-01,2013,deaths_risk_drug,733757,Risk: Drug
+2014-01-01,2014,deaths_risk_drug,742532,Risk: Drug
+2015-01-01,2015,deaths_risk_drug,764012,Risk: Drug
+2016-01-01,2016,deaths_risk_drug,787571,Risk: Drug
+2017-01-01,2017,deaths_risk_drug,802246,Risk: Drug
+2018-01-01,2018,deaths_risk_drug,820555,Risk: Drug
+2019-01-01,2019,deaths_risk_drug,846194,Risk: Drug
+1990-01-01,1990,deaths_risk_alcohol,2462885,Risk: Alcohol
+1991-01-01,1991,deaths_risk_alcohol,2517654,Risk: Alcohol
+1992-01-01,1992,deaths_risk_alcohol,2581091,Risk: Alcohol
+1993-01-01,1993,deaths_risk_alcohol,2657647,Risk: Alcohol
+1994-01-01,1994,deaths_risk_alcohol,2727260,Risk: Alcohol
+1995-01-01,1995,deaths_risk_alcohol,2765782,Risk: Alcohol
+1996-01-01,1996,deaths_risk_alcohol,2789684,Risk: Alcohol
+1997-01-01,1997,deaths_risk_alcohol,2824640,Risk: Alcohol
+1998-01-01,1998,deaths_risk_alcohol,2859211,Risk: Alcohol
+1999-01-01,1999,deaths_risk_alcohol,2913566,Risk: Alcohol
+2000-01-01,2000,deaths_risk_alcohol,2969219,Risk: Alcohol
+2001-01-01,2001,deaths_risk_alcohol,3013812,Risk: Alcohol
+2002-01-01,2002,deaths_risk_alcohol,3083166,Risk: Alcohol
+2003-01-01,2003,deaths_risk_alcohol,3142881,Risk: Alcohol
+2004-01-01,2004,deaths_risk_alcohol,3182179,Risk: Alcohol
+2005-01-01,2005,deaths_risk_alcohol,3250625,Risk: Alcohol
+2006-01-01,2006,deaths_risk_alcohol,3267219,Risk: Alcohol
+2007-01-01,2007,deaths_risk_alcohol,3316373,Risk: Alcohol
+2008-01-01,2008,deaths_risk_alcohol,3404264,Risk: Alcohol
+2009-01-01,2009,deaths_risk_alcohol,3416851,Risk: Alcohol
+2010-01-01,2010,deaths_risk_alcohol,3477557,Risk: Alcohol
+2011-01-01,2011,deaths_risk_alcohol,3485683,Risk: Alcohol
+2012-01-01,2012,deaths_risk_alcohol,3532905,Risk: Alcohol
+2013-01-01,2013,deaths_risk_alcohol,3571100,Risk: Alcohol
+2014-01-01,2014,deaths_risk_alcohol,3595860,Risk: Alcohol
+2015-01-01,2015,deaths_risk_alcohol,3654901,Risk: Alcohol
+2016-01-01,2016,deaths_risk_alcohol,3717812,Risk: Alcohol
+2017-01-01,2017,deaths_risk_alcohol,3773019,Risk: Alcohol
+2018-01-01,2018,deaths_risk_alcohol,3838980,Risk: Alcohol
+2019-01-01,2019,deaths_risk_alcohol,3914936,Risk: Alcohol
+1990-01-01,1990,deaths_direct_total,172770,Direct Total (Drug + Alcohol)
+1991-01-01,1991,deaths_direct_total,184631,Direct Total (Drug + Alcohol)
+1992-01-01,1992,deaths_direct_total,198771,Direct Total (Drug + Alcohol)
+1993-01-01,1993,deaths_direct_total,215812,Direct Total (Drug + Alcohol)
+1994-01-01,1994,deaths_direct_total,230928,Direct Total (Drug + Alcohol)
+1995-01-01,1995,deaths_direct_total,237088,Direct Total (Drug + Alcohol)
+1996-01-01,1996,deaths_direct_total,238497,Direct Total (Drug + Alcohol)
+1997-01-01,1997,deaths_direct_total,238487,Direct Total (Drug + Alcohol)
+1998-01-01,1998,deaths_direct_total,241915,Direct Total (Drug + Alcohol)
+1999-01-01,1999,deaths_direct_total,248558,Direct Total (Drug + Alcohol)
+2000-01-01,2000,deaths_direct_total,256459,Direct Total (Drug + Alcohol)
+2001-01-01,2001,deaths_direct_total,258861,Direct Total (Drug + Alcohol)
+2002-01-01,2002,deaths_direct_total,260863,Direct Total (Drug + Alcohol)
+2003-01-01,2003,deaths_direct_total,261961,Direct Total (Drug + Alcohol)
+2004-01-01,2004,deaths_direct_total,263184,Direct Total (Drug + Alcohol)
+2005-01-01,2005,deaths_direct_total,267580,Direct Total (Drug + Alcohol)
+2006-01-01,2006,deaths_direct_total,264115,Direct Total (Drug + Alcohol)
+2007-01-01,2007,deaths_direct_total,260959,Direct Total (Drug + Alcohol)
+2008-01-01,2008,deaths_direct_total,259720,Direct Total (Drug + Alcohol)
+2009-01-01,2009,deaths_direct_total,254795,Direct Total (Drug + Alcohol)
+2010-01-01,2010,deaths_direct_total,253427,Direct Total (Drug + Alcohol)
+2011-01-01,2011,deaths_direct_total,251729,Direct Total (Drug + Alcohol)
+2012-01-01,2012,deaths_direct_total,251346,Direct Total (Drug + Alcohol)
+2013-01-01,2013,deaths_direct_total,254443,Direct Total (Drug + Alcohol)
+2014-01-01,2014,deaths_direct_total,259632,Direct Total (Drug + Alcohol)
+2015-01-01,2015,deaths_direct_total,267208,Direct Total (Drug + Alcohol)
+2016-01-01,2016,deaths_direct_total,276072,Direct Total (Drug + Alcohol)
+2017-01-01,2017,deaths_direct_total,282083,Direct Total (Drug + Alcohol)
+2018-01-01,2018,deaths_direct_total,289721,Direct Total (Drug + Alcohol)
+2019-01-01,2019,deaths_direct_total,297145,Direct Total (Drug + Alcohol)
