@@ -1,7 +1,6 @@
 # 🧪 Global Substance Abuse Mortality Analytics
 
-> **Portfolio Project** | Eden Mandate AI_Tools  
-> Master's in AI and Data Science
+> **Project** |  Master's in AI and Data Science
 
 ## Overview
 End-to-end analysis of global mortality attributable to substance abuse (drug, alcohol, tobacco)  
@@ -23,7 +22,7 @@ across 207 countries from 1990–2019, with a 5-year SARIMAX forecast through 20
 | Modelling | SARIMAX (AIC grid), Prophet (annual-corrected), AutoTS (fast ensemble) |
 | Evaluation | Hold-out test set (3 years) · MAE, RMSE, MAPE |
 | Forecasting | 5-year horizon per measure with 80% confidence intervals |
-| Exports | Power BI and Tableau ready CSVs |
+| Exports | Power BI and Tableau-ready CSVs |
 
 ## Key Results
 
