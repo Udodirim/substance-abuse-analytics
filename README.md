@@ -1,6 +1,8 @@
 # 🧪 Global Substance Abuse Mortality Analytics
+<img width="1363" height="896" alt="image" src="https://github.com/user-attachments/assets/d1814ca6-b49f-470c-b62f-6c4ccbb834bc" />
 
-> **Project** |  Master's in AI and Data Science
+## Interactive Dashboard
+**[View Live Dashboard →](https://sd44xr.csb.app/)** 
 
 ## Overview
 End-to-end analysis of global mortality attributable to substance abuse (drug, alcohol, tobacco)  
